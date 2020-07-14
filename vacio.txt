@@ -6,3 +6,5 @@ version 2 rama tmp
 version 3 rama tmp 
 
 version 4 ramam origin/master github
+
+version 5 desde master hasta github con ssh
